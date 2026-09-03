@@ -1,1 +1,1 @@
-# Automated-industrial-railway-station-with-a-modular-control-system-and-a-full-railcar-sorting-cycle.
+# Automated industrial railway station with a modular control system and a full railcar sorting cycle.
